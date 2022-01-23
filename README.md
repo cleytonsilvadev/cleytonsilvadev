@@ -1,10 +1,15 @@
 ## Oiii eu sou o Cleyton Rodrigues, estudante de desenvolvimento e amador de robotica!
+<h4>👨‍💻Voluntario no NID-nucleo de inclusão digital<h4>
+<h4>💻Cursando técnico em Desenvolvimento em Sistemas<h4>
+<h4>⚙ Futuro Engenheiro <h4>
 <div align="center">
   <a href="https://github.com/cleytonsilvadev">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cleytonsilvadev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleytonsilvadev&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="cleyton-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+	<img align="center" alt="cleyton-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="cleyton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="cleyton-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="cleyton-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
