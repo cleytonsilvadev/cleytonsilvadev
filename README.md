@@ -1,4 +1,4 @@
-## Oiii eu sou o Cleyton Rodrigues, criador de conteúdo de programação e amador de robotica!
+## Oiii eu sou o Cleyton Rodrigues, estudante de desenvolvimento e amador de robotica!
 <div align="center">
   <a href="https://github.com/cleytonsilvadev">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cleytonsilvadev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
