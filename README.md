@@ -1,5 +1,5 @@
 ## Oiii eu sou o Cleyton Rodrigues, estudante de desenvolvimento e amador de robotica!
-<h4>👨‍💻Voluntario no NID-nucleo de inclusão digital<h4>
+<h4>👨‍💻Estagiario no NID-nucleo de inclusão digital<h4>
 <h4>💻Cursando técnico em Desenvolvimento em Sistemas<h4>
 <h4>⚙ Futuro Engenheiro <h4>
 <div align="center">
