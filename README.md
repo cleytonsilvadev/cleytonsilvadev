@@ -1,12 +1,20 @@
 ## Oiii eu sou o Cleyton Rodrigues, estudante de desenvolvimento e amador de robotica!
-<h4>👨‍💻Estagiario no NID-nucleo de inclusão digital<h4>
-<h4>💻Cursando técnico em Desenvolvimento em Sistemas<h4>
-<h4>⚙ Futuro Engenheiro <h4>
+<h4>👨‍💻Voluntario no NID-nucleo de inclusão digital - Procriança<h4>
+<h4>💻Cursando técnico em Desenvolvimento de Sistemas - ETEPD<h4>
+<h4>⚙ Cursando Engenharia eletronica - UFRPE <h4>
+
 <div align="center">
   <a href="https://github.com/cleytonsilvadev">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cleytonsilvadev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleytonsilvadev&layout=compact&langs_count=7&theme=dark"/>
+<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cleytonsilvadev&theme=nord_dark"/> 
+ <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=cleytonsilvadev&theme=dark&hide_border=true"/>
 </div>
+
+
+
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="cleyton-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 	<img align="center" alt="cleyton-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
