@@ -1,7 +1,4 @@
 ##  Oiii eu sou o Cleyton Rodrigues, estudante de desenvolvimento e amador de robótica!!
-<h4>👨‍💻Voluntario no NID-nucleo de inclusão digital - Pró-criança<h4>
-<h4>💻Cursando técnico em Desenvolvimento de Sistemas - ETEPD<h4>
-<h4>⚙ Cursando Engenharia eleeletrônica-UFRPE <h4>
 
 <div align="center">
   <a href="https://github.com/cleytonsilvadev">
