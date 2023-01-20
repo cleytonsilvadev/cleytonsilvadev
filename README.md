@@ -1,12 +1,5 @@
 ##  Oiii eu sou o Cleyton Rodrigues, estudante de desenvolvimento e amador de robótica!!
 
-<div align="center">
-  <a href="https://github.com/cleytonsilvadev">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cleytonsilvadev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleytonsilvadev&layout=compact&langs_count=7&theme=dark"/>
-<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cleytonsilvadev&theme=nord_dark"/> 
- <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=cleytonsilvadev&theme=dark&hide_border=true"/>
-</div>
 
 
 
